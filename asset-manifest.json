@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22f93d05.css",
+    "main.js": "/static/js/main.452c87eb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/glitchmynameaa.gif": "/static/media/glitchmynameaa.7081a1ad512c0772ee6b.gif",
+    "static/media/glitchscenepass.gif": "/static/media/glitchscenepass.d1109ef77d65e8bb6381.gif",
+    "static/media/IMG_0065_30_4_30.jpg": "/static/media/IMG_0065_30_4_30.3e8153cc43d7b025b940.jpg",
+    "index.html": "/index.html",
+    "main.22f93d05.css.map": "/static/css/main.22f93d05.css.map",
+    "main.452c87eb.js.map": "/static/js/main.452c87eb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f93d05.css",
+    "static/js/main.452c87eb.js"
+  ]
+}
